@@ -25,7 +25,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Authors
 
-* **Sanskar Tiwari** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Sanskar Tiwari** - *Initial work* - [Theindianappguy](https://www.facebook.com/Theindianappguy-111238193612220/)
 
 See also the list of [contributors](https://github.com/theindianappguy/SampleProfileUi/contributors) who participated in this project.
 
